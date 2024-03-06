@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "400128835812",
+    "project_id": "my-flow-b056b",
+    "storage_bucket": "my-flow-b056b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400128835812:android:d987786c7fd769e3a8acf1",
+        "android_client_info": {
+          "package_name": "com.myFlow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400128835812-lsqqfhvsimkifu2mn2l3flag8n5ub8ug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABEf6EjvXla94g65m34Xwoa03Tw-Xelws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400128835812-lsqqfhvsimkifu2mn2l3flag8n5ub8ug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
